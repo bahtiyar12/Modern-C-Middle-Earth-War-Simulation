@@ -1,0 +1,16 @@
+# Visual Studio Temporary Files
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.suo
+*.user
+*.ipch
+*.db
+*.opendb
+
+# Output folders
+x64/
+Debug/
+Release/
