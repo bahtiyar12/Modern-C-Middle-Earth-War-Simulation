@@ -1,6 +1,6 @@
 # Modern C++ Middle Earth War Simulation
 
-This project is a Middle Ear war simulation application written in Modern C++. It demonstrates the use of **polymorphism** and the **factory design pattern** to create and manage the armies of different nations and simulate a war. The project is intended to enhance knowledge of Modern C++ and explore advanced concepts in object-oriented programming.
+This project is a Middle Earth war simulation application written in Modern C++. It demonstrates the use of **polymorphism** and the **factory design pattern** to create and manage the armies of different nations and simulate a war. The project is intended to enhance knowledge of Modern C++ and explore advanced concepts in object-oriented programming.
 
 ## Features
 - **Nation Classes (`Mordor`, `Rivendell`)**: Represent different nations with unique characteristics.
