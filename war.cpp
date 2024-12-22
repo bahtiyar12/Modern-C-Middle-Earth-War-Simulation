@@ -4,9 +4,7 @@
 const char *War::ResultS[] = {"First", "Second", "Draw"};
 
 War::War( std::vector<std::unique_ptr<Country>> & alliance1,  std::vector<std::unique_ptr<Country>>& alliance2) : m_alliance1(alliance1), m_alliance2(alliance2)
-{
-
-}
+{}
 
 void War::start()
 {
